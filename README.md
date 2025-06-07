@@ -8,7 +8,7 @@ This is a display of sample websites that I made using HTML and CSS.
 - [Movie Showtimes Site](https://mmfk20.github.io/Bootstrap-Project-mohammad/)
 
 ### Travel Destination Site
-This page is a simple website created for a travel destination. It's built using only HTML and CSS. The site features descriptive text, headings, and images organized into a clean layout.
+Discover beautiful beaches, crystal-clear water, and peaceful nature. Explore tropical landscapes, enjoy relaxing seaside views, and immerse yourself in the tranquility of coastal life. 
 
 ### Movie Showtimes Site
-This is a movie theater homepage created using Bootstrap 5. It includes Bootstrap components such as a navbar, showtime listings, responsive cards, and layout elements.
+Browse upcoming movies, showtimes, and cinema listings with a sleek, responsive layout.offering a modern and user-friendly experience. View film posters, descriptions, and screening times all in one place — perfect for planning your next movie night.
