@@ -21,12 +21,10 @@
       <!-- Project 1 -->
       <div class="col-md-5">
         <div class="card shadow">
-          <img src="https://mmfk20.github.io/Travel-Destination/beach.jpg" class="card-img-top" alt="Travel Project">
+          <img src="beach.jpg" class="card-img-top" alt="Travel Project">
           <div class="card-body">
-            <h5 class="card-title">
-              <a href="https://mmfk20.github.io/Travel-Destination/" target="_blank" class="text-decoration-none">Travel Destination</a>
-            </h5>
-            <p class="card-text">A simple and beautiful travel site made with HTML and CSS.</p>
+            <h5 class="card-title">Travel Destination</h5>
+            <p class="card-text">A beautiful travel site made with HTML and CSS.</p>
             <a href="https://mmfk20.github.io/Travel-Destination/" class="btn btn-primary" target="_blank">View Project</a>
           </div>
         </div>
@@ -35,12 +33,10 @@
       <!-- Project 2 -->
       <div class="col-md-5">
         <div class="card shadow">
-          <img src="https://mmfk20.github.io/Bootstrap-Project-mohammad/kong%20skull%20island.jpg" class="card-img-top" alt="Movie Project">
+          <img src="city.jpg" class="card-img-top" alt="Movie Project">
           <div class="card-body">
-            <h5 class="card-title">
-              <a href="https://mmfk20.github.io/Bootstrap-Project-mohammad/" target="_blank" class="text-decoration-none">Movie Showtimes</a>
-            </h5>
-            <p class="card-text">A movie showtimes listing built with HTML, CSS, and Bootstrap.</p>
+            <h5 class="card-title">Movie Showtimes</h5>
+            <p class="card-text">A movie listing built with HTML, CSS, and Bootstrap.</p>
             <a href="https://mmfk20.github.io/Bootstrap-Project-mohammad/" class="btn btn-primary" target="_blank">View Project</a>
           </div>
         </div>
