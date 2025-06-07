@@ -17,18 +17,29 @@
   <div class="container text-center">
     <h1 class="mb-5">My HTML and CSS Projects</h1>
 
-    <ul class="list-group list-group-flush">
-      <li class="list-group-item">
-        <a href="https://mmfk20.github.io/Travel-Destination/" target="_blank">
-          🌍 Travel Destination Project
-        </a>
-      </li>
-      <li class="list-group-item">
-        <a href="https://mmfk20.github.io/Bootstrap-Project-mohammad/" target="_blank">
-          🎬 Movie Showtimes Project
-        </a>
-      </li>
-    </ul>
+    <div class="row justify-content-center g-4">
+      <!-- Project 1 -->
+      <div class="col-md-5">
+        <div class="card shadow">
+          <div class="card-body">
+            <h5 class="card-title">Travel Destination</h5>
+            <p class="card-text">A simple travel website created with HTML and CSS.</p>
+            <a href="https://mmfk20.github.io/Travel-Destination/" class="btn btn-primary" target="_blank">Visit Travel Project</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project 2 -->
+      <div class="col-md-5">
+        <div class="card shadow">
+          <div class="card-body">
+            <h5 class="card-title">Movie Showtimes</h5>
+            <p class="card-text">A Bootstrap-based movie showtimes page.</p>
+            <a href="https://mmfk20.github.io/Bootstrap-Project-mohammad/" class="btn btn-primary" target="_blank">Visit Movie Project</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 
   <footer class="text-center mt-5 mb-3 text-muted">
